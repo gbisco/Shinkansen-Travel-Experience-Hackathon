@@ -26,4 +26,4 @@ The evaluation metric is simply the percentage of predictions made by the model 
 The output file is a CSV file with the predicted results for each model. The CVS contains ID numbers and a column with satisfaction prediction values (0 - Not satisfied / 1 - satisfied)
 
 # User notes
-Results shows GXboost to be the best model, yet accuracy could be improved with different data handling and hyperparameters. Running a grid search is reccomended fot each model.
+Results shows XGboost to be the best model, yet accuracy could be improved with different data handling and hyperparameters. Running a grid search is reccomended fot each model.
